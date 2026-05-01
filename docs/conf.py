@@ -39,8 +39,8 @@ html_css_files   = ['css/custom.css']
 html_title       = 'Shannon Entropy — ITF Docs'
 html_short_title = 'shannon-entropy'
 
-# html_logo    = '_static/img/itf_icon.png'
-# html_favicon = '_static/img/itf_icon.png'
+html_logo    = '_static/img/itf_icon.png'
+html_favicon = '_static/img/itf_icon.png'
 
 html_context = {
     'display_github':  True,
